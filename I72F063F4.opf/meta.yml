@@ -1,0 +1,30 @@
+id: I72F063F4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:37:37.463628'
+last_modified: '2022-06-15T20:37:37.463653'
+parser: null
+source_metadata:
+  title: Arts and Crafts Series
+  language: bo
+  description: 'Texts related to the practical arts and crafts (Skt. śilpa; Tib. bzo
+    rig):'
+  volume:
+    f8921:
+      title: Description of a Kadam Thangka
+      base_file: f8921.txt
+      order: 1
+      parent: Thangkas
+    fE6AE:
+      title: On the Proportions of Stūpas and Suchlike
+      base_file: fE6AE.txt
+      order: 2
+      parent: Stūpas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
